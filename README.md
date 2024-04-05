@@ -1,6 +1,6 @@
 # animals
 
-- [Lio]./(./lion.md)  
+- [Lio](./lion.md)  
 - [Owl](./owl.md)  
 - [Wolf](./wolf.md)  
 - [birds](./bird.md)  
