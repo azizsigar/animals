@@ -1,6 +1,8 @@
 # animals
 
-- [Leo](lion.md)
+- [Lio](lion.md)
 - [Owl](owl.md)
 - [Wolf](wolf.md)
-- [Me](me.md)
+- [birds](bird.md)
+
+you can navigate in the menu
